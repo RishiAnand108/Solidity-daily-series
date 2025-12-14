@@ -1,0 +1,18 @@
+# dependencies
+node_modules/
+package-lock.json
+
+# hardhat artifacts and cache
+artifacts/
+cache/
+coverage/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# env / secrets
+.env
+.env.local
